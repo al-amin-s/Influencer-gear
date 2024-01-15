@@ -81,7 +81,7 @@ nav {
 
 
 .banner-img {
-    background-image: url('/images/Circle\ design.svg');
+    background-image: url('./images/Circle\ design.svg');
     width: 475px;
     height: 475px;
 }
